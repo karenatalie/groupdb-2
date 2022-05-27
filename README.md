@@ -22,6 +22,7 @@ Library(ggplot2) <br>
 
 # About Us
 Albert Agung Prayogo <br>
+https://www.instagram.com/albert.prayogo/ <br>
 https://rpubs.com/albert23899
 <br>
 Garry Julius <br>
@@ -30,8 +31,9 @@ https://rpubs.com/boring.garr/
 Karen Natalie <br>
 www.instagram.com/kaaren.na  <br>
 www.rpubs.com/karennatalie/ <br>
-<br>
-Yosia
+Yosia <br>
+https://www.instagram.com/yyosia/ <br>
+https://rpubs.com/yosia/
 <br>
 
 # Suppliers Dataset
