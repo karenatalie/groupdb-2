@@ -39,7 +39,14 @@ Library(ggplot2) <br>
 # Suppliers Dataset
 Suppliers merupakan sebuah dataset yang sangat penting dalam sebuah perusahaan, karena suppliers yang menyediakan data untuk penggunaan konsumsi pihak ketiga. Pada kasus ini, supplier adalah konsumen atau pembeli data, maksudnya yang membeli atau mengakses data pihak ketiga. 
 <br>
+<br>
 Dalam data suppliers, berisi SupplierID, SupplierName, ContactName, address, city, Postalcode, Country, Phone. Bisa kita lihat bahwa dalam data supplier terdapat banyak informasi dan data pribadi costumer. 
 <br>
-Data supplier berhubungan dengan data Products dimana data produts berhubungan dengan data categories, data ordertail. Jadi data suppliers memiliki banyak hubungan dengan data yang lain. 
 <br>
+Data supplier berhubungan dengan data Products dimana data produts berhubungan dengan data categories, data ordertail. Jadi data suppliers memiliki banyak hubungan dengan data yang lain. 
+
+# Updates
+- 21 May 2022 = we were in discussions to carry out regular work on this app <br>
+- 27 May 2022 = we're built login system, logo and homepage <br>
+- 28 May 2022 = we're built analytics statistics descriptive and statistical inferential <br>
+- 28 May 2022 = we're made conclusions and suggestions including records of our process <br>
