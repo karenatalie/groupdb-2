@@ -1,4 +1,26 @@
 # groupdb-2
-This group was created to support the final project in the database system course in semester 4 and present the results of the projects we have made. <br>
-<br>
-In This case, we're using dataset called "Suppliers". 
+
+# Members of Groupdb-2
+
+Albert Agung Prayogo - 20204920019
+Garry Julius - 20204920003
+Karen Natalie - 20204920015
+Yosia - 20204920012
+
+# Package needed 
+Library(DBI)
+Library(RMySQL)
+Library(DT)
+Library(tidyverse)
+Library(plotly)
+Library(skimr)
+Library(scales)
+Library(glue)
+Library(dplyr)
+Library(lubridate)
+Library(ggplot2)
+
+# About Us
+Karen Natalie
+www.instagram.com/kaaren.na 
+www.rpubs.com/karennatalie/
