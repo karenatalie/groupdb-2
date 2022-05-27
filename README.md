@@ -7,19 +7,6 @@ Garry Julius - 20204920003 <br>
 Karen Natalie - 20204920015 <br>
 Yosia - 20204920012 <br>
 
-# Package Needed 
-Library(DBI) <br>
-Library(RMySQL) <br>
-Library(DT) <br>
-Library(tidyverse) <br>
-Library(plotly) <br>
-Library(skimr) <br>
-Library(scales) <br>
-Library(glue) <br>
-Library(dplyr) <br>
-Library(lubridate) <br>
-Library(ggplot2) <br>
-
 # About Us
 Albert Agung Prayogo <br>
 https://www.instagram.com/albert.prayogo/ <br>
@@ -36,6 +23,19 @@ https://www.instagram.com/yyosia/ <br>
 https://rpubs.com/yosia/
 <br>
 
+# Package Needed 
+Library(DBI) <br>
+Library(RMySQL) <br>
+Library(DT) <br>
+Library(tidyverse) <br>
+Library(plotly) <br>
+Library(skimr) <br>
+Library(scales) <br>
+Library(glue) <br>
+Library(dplyr) <br>
+Library(lubridate) <br>
+Library(ggplot2) <br>
+
 # Suppliers Dataset
 Suppliers merupakan sebuah dataset yang sangat penting dalam sebuah perusahaan, karena suppliers yang menyediakan data untuk penggunaan konsumsi pihak ketiga. Pada kasus ini, supplier adalah konsumen atau pembeli data, maksudnya yang membeli atau mengakses data pihak ketiga. 
 <br>
@@ -43,8 +43,3 @@ Dalam data suppliers, berisi SupplierID, SupplierName, ContactName, address, cit
 <br>
 Data supplier berhubungan dengan data Products dimana data produts berhubungan dengan data categories, data ordertail. Jadi data suppliers memiliki banyak hubungan dengan data yang lain. 
 <br>
-
-# Tabble Data Suppliers
-(picture of Table Data Suppliers)
-
-# Visual of Login System with Logo
