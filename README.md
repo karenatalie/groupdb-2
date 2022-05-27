@@ -22,8 +22,10 @@ Library(ggplot2) <br>
 
 # About Us
 Albert Agung Prayogo <br>
+https://rpubs.com/albert23899
 <br>
 Garry Julius <br>
+https://rpubs.com/boring.garr/
 <br>
 Karen Natalie <br>
 www.instagram.com/kaaren.na  <br>
@@ -43,3 +45,4 @@ Data supplier berhubungan dengan data Products dimana data produts berhubungan d
 # Tabble Data Suppliers
 (picture of Table Data Suppliers)
 
+# Visual of Login System with Logo
